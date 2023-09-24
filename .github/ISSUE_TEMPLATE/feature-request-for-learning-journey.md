@@ -1,4 +1,4 @@
----
+    ---
 name: Feature request for Learning Journey
 about: Suggest an idea for this Learning Journey
 title: ''
